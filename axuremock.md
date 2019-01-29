@@ -1,5 +1,5 @@
 
- <img src="mockup1.jpg" height=50 width=50/>
+ <img src="mockup1.jpg" height=200 width=200/>
       
 
 
