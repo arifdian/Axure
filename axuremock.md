@@ -1,3 +1,10 @@
+
+        (Axure/mockup1.jpg)
+      
+
+
+
+
 # Introduction
 
 A mock-up project with the theme "food delivery service" in mind. This prototypes are created using software/interface
