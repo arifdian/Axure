@@ -1,5 +1,5 @@
 
-        (Axure/mockup1.jpg)
+ [logo]: https://github.com/arifdian/Axure/mockup1.jpg
       
 
 
