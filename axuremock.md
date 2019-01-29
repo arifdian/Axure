@@ -1,5 +1,5 @@
 
- ![logo1]: (mockup1.jpg)
+ <img src="mockup1.jpg" />
       
 
 
