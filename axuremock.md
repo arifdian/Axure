@@ -1,5 +1,5 @@
 
- [logo]: (https://github.com/arifdian/Axure/blob/master/mockup1.jpg)
+ ![logo]: (https://github.com/arifdian/Axure/blob/master/mockup1.jpg)
       
 
 
